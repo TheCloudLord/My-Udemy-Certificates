@@ -14,3 +14,7 @@
 
 # 3.Teamwork Foundations
 ![image](https://media.licdn.com/dms/image/D562DAQHlEttmv-sirw/profile-treasury-image-shrink_800_800/0/1704534215257?e=1709179200&v=beta&t=ALLf9jfX8QpwfROTKEgwf0LxT1d85zNCulCM6zZJ000)
+
+# 4.Design Thinking
+![image](https://media.licdn.com/dms/image/D4D2DAQHvHPRUtE4t4A/profile-treasury-image-shrink_800_800/0/1708595754436?e=1709204400&v=beta&t=fhuFGlpSy1VdLtpomtLEJYPMFlR1XjdE5P04mB3l46s)
+
