@@ -1,4 +1,4 @@
-# My-Udemy-Certificates
+# My-Udemy/LinkedIn-Certificates
 <h2>Shows a List of my acquired Udemy Certificates</h2>
 <hr>
 
@@ -9,3 +9,8 @@
 
 # 2.Developing Assertive Leadership
 ![image](https://media.licdn.com/dms/image/D562DAQExmFAMsBGnxg/profile-treasury-image-shrink_800_800/0/1704534290207?e=1709179200&v=beta&t=_gybUEDMllz_T0pTxdb4lJ65DRconlCwPxWQqgkHHwc)
+
+<hr>
+
+# 3.Teamwork Foundations
+![image](https://media.licdn.com/dms/image/D562DAQHlEttmv-sirw/profile-treasury-image-shrink_800_800/0/1704534215257?e=1709179200&v=beta&t=ALLf9jfX8QpwfROTKEgwf0LxT1d85zNCulCM6zZJ000)
